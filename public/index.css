@@ -1,0 +1,32 @@
+.header {
+    font-size: 30px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    
+}
+.game {
+    margin: none;
+    background-color: rgb(15, 50, 170);
+}
+
+.select {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    background: rgb(100, 100,100);
+}
+
+.controls {
+    width: auto;
+    height: 50px;
+    background:rgb(15, 50, 170);
+    display:flex;
+    justify-content:center;
+}
+
+.speedbox {
+position:(100, 100);
+display: flex;
+
+}
